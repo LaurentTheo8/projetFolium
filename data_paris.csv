@@ -1,0 +1,51 @@
+,Nom,Rue,Code postal,Type,Numero tel,Prix,Latitude,Longitude
+0,Shinjuku Pigalle,"52, rue Condorcet",75009,['Japonais'],+33 1 42 06 18 14,['De 16 à 35 €'],48.88030209999999,2.34318559999997
+1,Basique,"164, av. Ledru-Rollin",75011,['Tapas'],+33 1 40 24 20 48,['De 16 à 35 €'],48.85662629999999,2.3794030999999904
+2,Gramme,"86, rue des Archives",75003,"['Café / Coffee Shop', 'Snack / Tartes / Salades / Soupes / Bols']",+33 9 50 92 20 23,['Moins de 15 €'],48.86306279999999,2.360760199999959
+3,Chinaski,"46, rue Daubenton",75005,"['Café / Coffee Shop', ""Cuisine d'auteur"", 'Néobistrot']",+33 1 73 74 74 06,['De 16 à 35 €'],48.8403583,2.350235600000019
+4,Sucrépice,"5, rue d'Arras",75005,['Chinois'],+33 1 72 67 11 74,['Moins de 15 €'],48.84736669999999,2.351738100000034
+5,Così,"54, rue de Seine",75006,"['Sandwichs / Bagels', 'Lèche-doigts']",+33 1 46 33 35 36,['Moins de 15 €'],48.8540863,2.3368735000000243
+6,Kodawari Yokocho ,"29, rue Mazarine",75006,['Japonais'],+ 33 9 70 91 12 41,['De 16 à 35 €'],48.8546579,2.338127100000065
+7,Cuisine,"50, rue Condorcet",75009,"['Néobistrot', 'Bar à vins / Cave à manger']",+33 1 44 63 75 64,['De 16 à 35 €'],48.8804875,2.343314599999985
+8,Dumbo,"64, rue Jean-Baptiste Pigalle",75009,['Burgers'],Pas de téléphone. ,['Moins de 15 €'],48.8816541,2.3369591000000582
+9,Vermillon,"5, rue de Calais",75009,['Cuisine du marché'],+ 33 1 42 41 49 68,['De 16 à 35 €'],48.8822195,2.3313728000000538
+10,CoCo,"1, pl. Jacques-Rouché",75009,"['Brasserie', 'Nourritures mondaines']",+33 1 42 68 86 80,['Plus de 51 €'],48.8720588,2.3322736000000077
+11,Restaurant du Badaboum,"2, rue des Taillandiers",75011,"[""Cuisine d'auteur"", 'Cuisine du marché', 'Néobistrot', 'Bar à vins / Cave à manger']",+33 1 85 09 75 46,['De 16 à 35 €'],48.85345299999999,2.3757510000000366
+12,Le Chardenoux,"1, rue Jules-Vallès",75011,"['Néobistrot', 'Poissons et fruits de mer']",+33 1 43 71 49 52,['Plus de 51 €'],48.8527401,2.3849338999999645
+13,Early June,"19, rue Jean Poulmarch",75010,['Bar à vins / Cave à manger'],+33142854074,['De 16 à 35 €'],48.87291459999999,2.363441200000011
+14,Street Bangkok Roast & Beer,"112, rue Saint-Denis",75002,"['Asiatique', 'Thaïlandais', 'Lèche-doigts']",+33 1 42 36 60 92,['De 16 à 35 €'],48.8639143,2.3503427000000556
+15,Le Bougainville,"5, rue de la Banque",75002,['Bistrot'],+33 1 42 60 05 19,['De 16 à 35 €'],48.8665455,2.3400839999999334
+16,Bar à Momos ,"218, rue du Faubourg Saint-Antoine",75012,"['Lèche-doigts', 'Tibétain']",+33 1 43 72 89 82,['Moins de 15 €'],48.8495649,2.3870848999999907
+17,Melt 17,"83, rue Legendre",75017,"['Viandes / Grillades', 'Lèche-doigts']",+33 9 87 09 99 25 ,['De 16 à 35 €'],48.8877859,2.3202774999999747
+18,Pompette,"15, rue Hippolyte-Lebas",75009,"['Néobistrot', 'Bar à vins / Cave à manger']",,['De 16 à 35 €'],48.877075,2.3401496
+19,L'Enoteca,"25, rue Charles-V",75004,"['Italien', 'Pâtes']",+33 1 42 78 91 44,['De 36 à 50 €'],48.8533138,2.3618052
+20,Le Costes,"239-241, rue Saint-Honoré",75001,['Nourritures mondaines'],+33 1 42 44 50 25,['Plus de 51 €'],48.8666683,2.327974499999982
+21,Pico,"110, rue Saint-Honoré",75001,"['Snack / Tartes / Salades / Soupes / Bols', 'Lèche-doigts']",Pas de téléphone,['De 16 à 35 €'],48.8616821,2.3417151999999533
+22,Mar'Co,"4, rue de la Sourdière",75001,['Nourritures mondaines'],+33 1 44 82 03 74,['De 16 à 35 €'],48.8652726,2.331833700000061
+23,Bontemps,"57, rue de Bretagne",75003,"['Salon de thé / Pâtisserie', 'Snack / Tartes / Salades / Soupes / Bols']",+33 1 42 74 10 68,['De 16 à 35 €'],48.8638169,2.360690100000056
+24,Jòia,"39, rue des Jeûneurs",75002,['Bistrot'],+33 1 40 20 06 06,['De 36 à 50 €'],48.8697224,2.3434919000000036
+25,Elmer,"30, rue Notre-Dame-de-Nazareth",75003,"[""Cuisine d'auteur"", 'Néobistrot']",+33 1 43 56 22 95,['Plus de 51 €'],48.86742719999999,2.359420699999987
+26,Hero,"289, rue Saint-Denis",75002,['Coréen'],+33 1 42 33 38 01,['De 16 à 35 €'],48.86949910000001,2.3523430999999846
+27,Coinstot Vino,"26 bis, passage des Panoramas",75002,"['Pizzas', 'Bar à vins / Cave à manger']",+33 1 44 82 08 54,['De 16 à 35 €'],48.8706514,2.341592100000071
+28,Cantina,"11, rue Marie-et-Louise",75010,['Néobistrot'],Pas de téléphone. ,['De 16 à 35 €'],48.87188,2.366474499999981
+29,Okomusu,"11, rue Charlot",75003,"['Asiatique', 'Japonais']",+33 1 57 40 97 27,['De 16 à 35 €'],48.86149529999999,2.3607534000000214
+30,Chez Alain Miam Miam,"26, rue Charlot",75003,"['Biocool', 'Crêperie', 'Sandwichs / Bagels', 'Lèche-doigts']",+33 9 86 17 28 00,['Moins de 15 €'],48.86226010000001,2.3620224000000007
+31,Banh Mi,"81, rue de Turbigo",75003,"['Asiatique', 'Vietnamien', 'Snack / Tartes / Salades / Soupes / Bols', 'Sandwichs / Bagels', 'Lèche-doigts']",+33 1 48 04 98 90,['Moins de 15 €'],48.86666719999999,2.3606803999999784
+32,Yoshinori,"18, rue Grégoire de Tours",75006,"[""Cuisine d'auteur"", 'Néobistrot']",+33 9 84 19 76 05,['Plus de 51 €'],48.8530078,2.3377113999999892
+33,Aux Prés,"27, rue du Dragon",75006,['Néobistrot'],+33 1 45 48 29 68 ,['Plus de 51 €'],48.85272399999999,2.33051219999993
+34,Ze Kitchen Galerie,"4, rue des Grands-Augustins",75006,"[""Cuisine d'auteur""]",+33 1 44 32 00 32,['Plus de 51 €'],48.8549703,2.341129799999976
+35,Freddy’s,"54, rue de Seine",75006,"['Tapas', 'Bar à vins / Cave à manger']",Pas de téléphone.,['De 16 à 35 €'],48.8540863,2.3368735000000243
+36,Prosper et Fortunée,"50, rue Broca",75005,"[""Cuisine d'auteur"", 'Néobistrot']",+33 1 43 37 70 39,['Plus de 51 €'],48.8376222,2.347202599999946
+37,Raw Saint-Germain,"44, rue de Fleurus",75006,['Néobistrot'],+33 1 73 73 20 49,['De 16 à 35 €'],48.8466296,2.3274999999999864
+38,Maison David,"6, rue des Ecouffes",75004,"['Yiddish', 'Sandwichs / Bagels', 'Planches / Assiettes froides', 'Lèche-doigts']",+33 1 77 18 23 62,['Plus de 51 €'],48.8564745,2.3584253000000217
+39,Le Ruisseau Burger Joint,"22, rue Rambuteau",75003,"['Burgers', 'Lèche-doigts']",+33 1 43 70 02 21,['Moins de 15 €'],48.86115820000001,2.3545435999999427
+40,Tzeferakos,"24, rue Monge",75005,"['Grec', 'Lèche-doigts']",+ 33 1 46 34 76 27,['De 16 à 35 €'],48.8468959,2.3511320999999725
+41,Le Clarence,"31, av. Franklin-Delano-Roosevelt",75008,"[""Cuisine d'auteur""]",+33 1 82 82 10 10,['Plus de 51 €'],48.86743920000001,2.3098377000000028
+42,Déviant,"39, rue des Petites-Ecuries",75010,"['Bar à vins / Cave à manger', 'Lèche-doigts']",Pas de téléphone. ,['De 16 à 35 €'],48.8738211,2.35000279999997
+43,Peco Peco,"47, rue Jean-Baptiste-Pigalle",75009,"['Asiatique', 'Japonais']",+33 1 53 16 19 84,['De 16 à 35 €'],48.8802525,2.3346105000000534
+44,Street Bangkok Seine,"73, rue de Seine",75006,"['Asiatique', 'Thaïlandais']",+33 1 42 03 63 25,['Moins de 15 €'],48.8540893,2.3370927999999367
+45,Pizzou,"28, rue de Douai",75009,"['Italien', 'Pizzas']",+33 1 74 64 50 10,['De 16 à 35 €'],48.8825795,2.3329356000000416
+46,Plume,"24, rue Pierre-Leroux",75007,"[""Cuisine d'auteur"", 'Néobistrot']",+33 1 43 06 79 85,['De 36 à 50 €'],48.8487714,2.319201000000021
+47,Fogón Ultramarinos,"38, rue de Verneuil",75007,"['Espagnol', 'Tapas', 'Sandwichs / Bagels', 'Lèche-doigts']",+33 1 43 54 31 33,['De 16 à 35 €'],48.8580627,2.329070799999954
+48,Eels,"27, rue d'Hauteville",75010,"[""Cuisine d'auteur"", 'Néobistrot']",+33 1 42 28 80 20,['Plus de 51 €'],48.8732428,2.350104999999985
+49,Autour du Yangtse,"12, rue du Helder",75009,['Chinois'],+33 1 53 34 05 78,['Moins de 15 €'],48.8720325,2.3350642000000335
